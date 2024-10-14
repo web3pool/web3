@@ -1,1 +1,0 @@
-import{_ as c,o,c as n,S as e}from"./index-48607fab.js";const _={};function t(l,a){return o(),n("div",null," 404 ")}typeof e=="function"&&e(_);const f=c(_,[["render",t],["__file","[...all].vue"]]);export{f as default};
